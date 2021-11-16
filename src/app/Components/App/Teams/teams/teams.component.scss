@@ -1,0 +1,37 @@
+.tdTeamLogo {
+  .teamLogo {
+    border-radius: 50px;
+    width: 50px;
+    padding-top: 2px;
+  }
+}
+.leagueLogoDiv {
+  text-align: center;
+  .leagueLogo {
+    border-radius: 10px;
+    width: 150px;
+    padding-top: 2px;
+  }
+}
+
+table tr:last-child td /*To remove the last border*/ {
+  border-bottom: 0 solid;
+}
+table tr:last-child td:last-child /*To remove the last right border*/ {
+  border-right: 0 solid;
+}
+table tr:last-child td:first-child /*To remove the last left border*/ {
+  border-left: 0 solid;
+}
+
+tr.mat-header-row {
+  height: 35px;
+}
+
+.mat-elevation-z8 {
+  width: 60%;
+  height: auto;
+  margin: auto;
+  border-radius: 20px;
+  background-color: transparent;
+}

@@ -1,0 +1,31 @@
+{
+     "FootBallTeams" : [
+       
+      {
+        "team": {
+          "id":  1,
+          "name": "mockTeam1",
+          "type": "mockType1",
+          "logo":"https://logos-world.net/wp-content/uploads/2020/04/Barcelona-logo-2002-present.jpg"
+      }
+    },
+      
+      {
+      "team": {
+        "id":  2,
+        "name": "mockTeam2",
+        "type": "mockType2",
+        "logo":"https://logos-world.net/wp-content/uploads/2020/04/Barcelona-logo-2002-present.jpg"
+    }},
+
+        {
+    "team": {
+      "id":  2,
+      "name": "mockTeam3",
+      "type": "mockType3",
+      "logo":"https://logos-world.net/wp-content/uploads/2020/04/Barcelona-logo-2002-present.jpg"
+      }
+    
+      }
+    ]
+}

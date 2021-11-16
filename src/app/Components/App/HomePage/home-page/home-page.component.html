@@ -1,0 +1,13 @@
+<section>
+  <ul *ngFor="let league of leagues">
+    <button mat-button color="primary" (click)="ChangeLeague(league)">
+      {{ league.league.name }}
+    </button>
+  </ul>
+</section>
+<mat-divider></mat-divider>
+<app-teams
+  *ngIf="teams.length > 0"
+  [teams]="teams"
+  [currentLeague]="currentLeague"
+></app-teams>

@@ -1,0 +1,100 @@
+{
+     "FootBallLeagues" : [ {
+        "league": {
+            "id":  1,
+            "name": "aaaaaa",
+            "type": "aa",
+            "logo":"https://logowik.com/content/uploads/images/premier-league3330.jpg"
+        },
+        "country" : {
+            "name":"England",
+            "code":"code",
+            "flag":"https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png"
+        },
+        "seasons" : [ {
+            "year":2019
+          }, 
+          {
+            "year":2015
+          }
+        ]
+      }, 
+      {
+        "league": {
+            "id":  1,
+            "name": "bbbbbb",
+            "type": "bb",
+            "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+        },
+        "country" : {
+            "name":"Germany",
+            "code":"code",
+            "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png"
+        },
+        "seasons" : [ {
+            "year":2018
+          }, 
+          {
+            "year":2014
+          }
+        ]
+      },{
+        "league": {
+            "id":  1,
+            "name": "aaaaaa",
+            "type": "aa",
+            "logo":"https://logowik.com/content/uploads/images/premier-league3330.jpg"
+        },
+        "country" : {
+            "name":"England",
+            "code":"code",
+            "flag":"https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png"
+        },
+        "seasons" : [ {
+            "year":2019
+          }, 
+          {
+            "year":2015
+          }
+        ]
+      },{
+        "league": {
+            "id":  1,
+            "name": "aaaaaa",
+            "type": "aa",
+            "logo":"https://logowik.com/content/uploads/images/premier-league3330.jpg"
+        },
+        "country" : {
+            "name":"England",
+            "code":"code",
+            "flag":"https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png"
+        },
+        "seasons" : [ {
+            "year":2019
+          }, 
+          {
+            "year":2015
+          }
+        ]
+      },{
+        "league": {
+            "id":  1,
+            "name": "aaaaaa",
+            "type": "aa",
+            "logo":"https://logowik.com/content/uploads/images/premier-league3330.jpg"
+        },
+        "country" : {
+            "name":"England",
+            "code":"code",
+            "flag":"https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png"
+        },
+        "seasons" : [ {
+            "year":2019
+          }, 
+          {
+            "year":2015
+          }
+        ]
+      }
+    ]
+}
