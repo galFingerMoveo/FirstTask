@@ -13,9 +13,7 @@ export class HomePageComponent implements OnInit {
   teams: Team[] = new Array<Team>();
   currentLeague?: FootBallLeague;
 
-  constructor(private httpService: HttpService) {
-    console.log('');
-  }
+  constructor(private httpService: HttpService) {}
 
   // ngOnInit(): void {
   //   this.httpService.getLeagues().subscribe((data) => {
